@@ -1,4 +1,4 @@
-=== Easy FancyBox ===
+=== Polylang - Simple Google Connect compatibility ===
 Contributors: RavanH
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ravanhagen%40gmail%2ecom&item_name=Polylang%20SGC%20compatibility&item_number=1%2e3%2e1&no_shipping=0&tax=0&bn=PP%2dDonationsBF&charset=UTF%2d8&lc=us
 Tags: polylang, simple google connect, oauth2callback
