@@ -10,9 +10,11 @@ Ensures smooth operation when both Polylang and Simple Google Connect are active
 
 == Description ==
 
-Ensures smooth operation when both Polylang and Simple Google Connect are active. There are no options, just install and activate.
+When both Polylang and Simple Google Connect are active, there might occur a conflict when trying to log in with Google credentials. This is caused by a redirect on the home page (depending on Polylang settings) that interferes with the oauth2callback authorization process.
 
-This extension might also take care of compatibility between Polylang and other plugins that use oauth2callback but this is untested.
+This plugin ensures smooth operation when both Polylang and Simple Google Connect are active, no matter what Polylang settings you use. There are no options, just install and activate.
+
+This extension might also take care of compatibility between Polylang and other plugins that use oauth2callback but this is untested. Please report your findings on the Support page.
 
 
 == Changelog ==
