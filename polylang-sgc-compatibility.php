@@ -6,6 +6,13 @@ Description: Ensures smooth operation when both Polylang and Simple Google Conne
 Version: 0.1
 Author: RavanH
 Author URI: http://status301.net/
+
+	Copyright (c) 2012 RA van Hagen (http://status301.net)
+
+	Released under the GNU General Public License (GPL)
+	http://www.gnu.org/licenses/gpl.txt
+
+	This is a WordPress plugin (http://wordpress.org).
 */
 
 add_filter('pre_get_posts', 'polylang_sgc_compatibility', 1);
