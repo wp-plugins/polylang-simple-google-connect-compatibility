@@ -6,9 +6,11 @@ Requires at least: 3.1
 Tested up to: 3.4.1
 Stable tag: 0.1
 
-Ensures smooth operation when both Polylang and Simple Google Connect are active.
+DISCONTINUED. Ensures smooth operation when both Polylang and Simple Google Connect are active.
 
 == Description ==
+
+DISCONTINUED. Simple Google Connect is no longer so there is no more need for this plugin either.
 
 When both Polylang and Simple Google Connect are active, there might occur a conflict when trying to log in with Google credentials. This is caused by a redirect on the home page (depending on Polylang settings) that interferes with the oauth2callback authorization process.
 
